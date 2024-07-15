@@ -16,3 +16,6 @@ Para clonar o repositório para sua máquina local, use:
 
 ```bash
 https://github.com/AnneSevero/ForumHub-Challenge-ONE.git
+```
+# Badge de finalização do Challenge
+![Badge-Spring](https://github.com/user-attachments/assets/a49ca23c-8902-4791-9c01-00875e5c0508)

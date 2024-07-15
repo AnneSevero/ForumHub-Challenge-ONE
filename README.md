@@ -7,12 +7,12 @@
 - Maven
 - MySQL
 
-## Repositório
+# Contribuição
+Sinta-se à vontade para abrir um pull request ou uma issue.
 
+
+## Repositório
 Para clonar o repositório para sua máquina local, use:
 
 ```bash
-
-
-# Contribuição
-Sinta-se à vontade para abrir um pull request ou uma issue.
+https://github.com/AnneSevero/ForumHub-Challenge-ONE.git
